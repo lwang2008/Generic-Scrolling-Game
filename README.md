@@ -1,7 +1,10 @@
 # Generic-Scrolling-game
-Nifty project which creates a "scrolling game" where the user attempts to avoid obstacles and score points. 
+Nifty project for CS class. Creates a "scrolling game" where the user attempts to avoid obstacles and score points. 
 
-http://nifty.stanford.edu/2023/schwarz-rising-tides/
+For more information: 
+Friend's README -> https://github.com/akitaki79/ScrollingGame
+
+http://nifty.stanford.edu/2011/feinberg-generic-scrolling-game/
 
 For more of my Nifty projects:
 https://lucswng.xyz/Nifty-about.html
